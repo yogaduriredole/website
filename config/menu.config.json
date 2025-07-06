@@ -10,7 +10,31 @@
                 "type": "internal",
                 "target": "_self",
                 "rel": "",
-                "link": "/index.html#bienfaits",
+                "link": "/index.html#Bienfaits",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1749108320919,
+                "label": "Déroulement d'une séance",
+                "title": "",
+                "type": "internal",
+                "target": "_self",
+                "rel": "",
+                "link": "/index.html#Deroulement",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1749108400194,
+                "label": "Pour venir",
+                "title": "",
+                "type": "internal",
+                "target": "_self",
+                "rel": "",
+                "link": "/index.html#Venir",
                 "cssClass": "",
                 "isHidden": false,
                 "items": []
@@ -18,11 +42,11 @@
             {
                 "id": 1748794374049,
                 "label": "Où et quand ?",
-                "title": "Où et quand ?",
-                "type": "frontpage",
+                "title": "",
+                "type": "internal",
                 "target": "_self",
                 "rel": "",
-                "link": "empty",
+                "link": "/index.html#Ou",
                 "cssClass": "",
                 "isHidden": false,
                 "items": []
@@ -30,11 +54,11 @@
             {
                 "id": 1748794412792,
                 "label": "Avis des participants",
-                "title": "Ce que les participants en pensent",
-                "type": "frontpage",
+                "title": "",
+                "type": "internal",
                 "target": "_self",
                 "rel": "",
-                "link": "empty",
+                "link": "/index.html#Avis",
                 "cssClass": "",
                 "isHidden": false,
                 "items": []

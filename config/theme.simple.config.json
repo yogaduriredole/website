@@ -4,7 +4,7 @@
         "tagsPostsPerPage": 5,
         "authorsPostsPerPage": 5,
         "excerptLength": 45,
-        "logo": "media/website/Logo-rire-2-2.jpg"
+        "logo": "media/website/Logo-rire-2.jpg"
     },
     "customConfig": {
         "pageMargin": "6vw",
@@ -95,7 +95,7 @@
     "pageConfig": {
         "displayDate": 0,
         "displayAuthor": 0,
-        "displayLastUpdatedDate": 0,
+        "displayLastUpdatedDate": "1",
         "displayShareButtons": 0,
         "displayAuthorBio": 0,
         "displayChildPages": 0,
