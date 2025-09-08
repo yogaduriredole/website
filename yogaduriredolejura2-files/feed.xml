@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>YogaDuRireDoleJura2</title>
+    <link href="https://yogaduriredole.fr/feed.xml" rel="self" />
+    <link href="https://yogaduriredole.fr" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>C.Leroy</name>
+    </author>
+    <id>https://yogaduriredole.fr</id>
+
+</feed>

@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "YogaDuRireDoleJura2",
+    "description": "",
+    "home_page_url": "https://yogaduriredole.fr",
+    "feed_url": "https://yogaduriredole.fr/feed.json",
+    "user_comment": "",
+    "icon": "https://yogaduriredole.fr/media/website/Logo-rire-2.jpg",
+    "author": {
+        "name": "C.Leroy"
+    },
+    "items": [
+    ]
+}
