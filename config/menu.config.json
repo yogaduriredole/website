@@ -52,6 +52,18 @@
                 "items": []
             },
             {
+                "id": 1757326248545,
+                "label": "Tarifs",
+                "title": "",
+                "type": "internal",
+                "target": "_self",
+                "rel": "",
+                "link": "/index.html#Tarifs",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
                 "id": 1748794412792,
                 "label": "Avis des participants",
                 "title": "",
@@ -61,6 +73,30 @@
                 "link": "/index.html#Avis",
                 "cssClass": "",
                 "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1757327837944,
+                "label": "Photos",
+                "title": "",
+                "type": "internal",
+                "target": "_self",
+                "rel": "",
+                "link": "/index.html#Photos",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 17573279327001,
+                "label": "Avis des participants",
+                "title": "",
+                "type": "internal",
+                "target": "_self",
+                "rel": "",
+                "link": "/index.html#Avis",
+                "cssClass": "",
+                "isHidden": true,
                 "items": []
             }
         ],
